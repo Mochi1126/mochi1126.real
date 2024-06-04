@@ -1,0 +1,94 @@
+p.redred{
+    padding: 100px 50px ;
+    background-color: rgba(230, 141, 109, 0.377);
+    color:rgb(25, 0, 19);
+    border: 5px solid rgb(184, 226, 241);
+    font-size: 25px;
+    text-align: center;
+    text-indent:3em ;
+    background-image: url(../assets/img/bg-sky.jpg);
+    border-radius: 100px 100px 100px 100px;
+    margin: 0px 100px 100px 200px;
+}
+span.blueblue{
+    color:rgb(250, 247, 174);
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+span.ppp{
+    color:rgba(9, 44, 139, 0.761);
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+span.pppp{
+    color:rgba(23, 77, 225, 0.761);
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+}
+body{
+    font-family:'Noto Sans TC',sans-serif ;
+}
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
+    font-family:'Noto Serif TC',sans-serif ;
+}
+.expedu_icon {
+    color:rgba(51, 51, 177, 0.6)
+}
+.expedu_icon:hover{
+    background-color: blue;
+    color:white;
+}
+.bg-primary{
+    background-color: rgba(22, 75, 218, 0.548) !important;
+    background-image: url(../assets/img/bg-sea.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+table.mochi1126table{
+    width: 80%;
+    background-color: #eee5dcb9;
+    border:10px solid rgba(238, 235, 247, 0.671);
+
+}
+table.mochi1126table th{
+    text-align: center;
+    background-color: rgba(86, 204, 233, 0.671);
+    color:rgb(245, 80, 184)
+    border 10px solid red
+}
+table{
+    border-collapse: separate;
+}
+table{
+    border-collapse:collapse;
+}
+table.mochi1126table td{
+    text-align: justify;
+}
+tr:nth-child(even){
+    background-color: rgb(125, 180, 235);
+}
+tr:nth-child(odd){
+    background-color: rgb(247, 8, 135);
+}
+td{
+    border:1px solid #f3c701
+}
+.w-80{
+    width: 50;
+}
+.mochi80{
+    width: 80%;
+    margin: 0% auto;
+}
+.overfiowtest{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 15px;
+    width: 50px;
+    margin: 0px auto;
+    height: 100px;
+    overflow: visible;
+}
